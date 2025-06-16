@@ -1,7 +1,7 @@
 import React from 'react'
 import linkedinIcon from './assests/linkedin.svg';
 import ResumeIcon from './assests/Resume.png';
-import ResumeDoc from './assests/Mandeep-CV.pdf';
+import ResumeDoc from './assests/Mandeep-Chaudhary_CV.pdf';
 import githubIcon from './assests/git.png';
 
 export default function Contact() {

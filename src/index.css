@@ -254,6 +254,9 @@ padding:80px 0;
 } 
 }
 @media (max-width: 767px) {
+.navbar a.navbar-brand{
+    font-size: 28px;
+}
 .mobile-sp{
 padding:60px 0;
 }

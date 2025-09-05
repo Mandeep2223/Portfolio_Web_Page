@@ -7,7 +7,8 @@ return (
 <nav className="navbar bg-white navbar-expand-lg py-3">
 <div className="container-fluid section-container">
 <a className="navbar-brand text-black" href="#hero">
-<img src="{headerLogo}" alt="Portfolio Logo" width="200"></a>
+<img src="{headerLogo}" alt="Portfolio Logo" width="200"/>
+</a>
 <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
     <span className="navbar-toggler-icon"></span>
 </button>

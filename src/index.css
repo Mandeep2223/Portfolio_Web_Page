@@ -4,7 +4,10 @@
 body {
 font-family: "Poppins", sans-serif;
 }
-
+.navbar a.navbar-brand{
+    font-size: 36px;
+    font-weight: 500;
+}
 .navbar .navbar-nav .nav-link {
   position: relative;
   text-decoration: none;
